@@ -1,3 +1,3 @@
 print("hola")
-print("holaG")
-print("holaM")
+print("holaGeral")
+print("holaManzana")
